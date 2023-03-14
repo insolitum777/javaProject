@@ -37,7 +37,7 @@ public class ArithmeticOperations {
         return area;
     }
 
-    public double getAreaOfTriangle(int side1, int side2, int side3) {
+    public double getAreaOfTriangle(int side1, int side2, int side3) {inso
         int semiPerimeter = (side1 + side2 + side3) / 2;
         return semiPerimeter;
 
